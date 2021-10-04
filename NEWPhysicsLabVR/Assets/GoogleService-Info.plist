@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>304124530428-4g0uvkj0ra5rsflj4b1i72585k3i55am.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.304124530428-4g0uvkj0ra5rsflj4b1i72585k3i55am</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDH5nToJVGO9A6uvkqru03vcuDGW7h6Iys</string>
+	<key>GCM_SENDER_ID</key>
+	<string>304124530428</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yongfulu.VRphysicLab350</string>
+	<key>PROJECT_ID</key>
+	<string>physiclab1-18247</string>
+	<key>STORAGE_BUCKET</key>
+	<string>physiclab1-18247.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:304124530428:ios:e731d61e0b6bc8c64f5179</string>
+	<key>DATABASE_URL</key>
+	<string>https://physiclab1-18247.firebaseio.com</string>
+</dict>
+</plist>

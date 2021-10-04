@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: f4feb4cf-3295-4df9-b1fc-ddb1a21d7913
+    AppIdChat: 
+    AppIdVoice: f4feb4cf-3295-4df9-b1fc-ddb1a21d7913
+    AppVersion: 0
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: cae
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - ChangeColour
+  - RPC_OnstartButtonClick
+  - RPC_OnResetButtonClick
+  - RPC_OnStartButtonClick
+  - RPC_OnStopButtonClick
+  - RPC_OnLengthAddButtonClick
+  - RPC_OnLengthSubButtonClick
+  - RPC_OnAddPeriodButtonClick
+  - RPC_OnSubPeriodButtonClick
+  - RPC_OnAddPeriodButton1Click
+  - RPC_OnAddPeriodButton2Click
+  - RPC_OnAddPeriodButton3Click
+  - RPC_OnSubPeriodButton1Click
+  - RPC_OnSubPeriodButton2Click
+  - RPC_OnSubPeriodButton3Click
+  - RPC_TotalTimer
+  - RPC_UpdateUserName
+  - RPC_OnAddPeriodButton4Click
+  - RPC_OnAddPeriodButton5Click
+  - RPC_OnAddPeriodButton6Click
+  - RPC_OnSubPeriodButton4Click
+  - RPC_OnSubPeriodButton5Click
+  - RPC_OnSubPeriodButton6Click
+  - RPC_OnWeight1AddButtonClick
+  - RPC_OnWeight1SubButtonClick
+  - RPC_OnAddBlackAngleButtonClick
+  - RPC_OnAddBlackMassButtonClick
+  - RPC_OnAddPurpleAngleButtonClick
+  - RPC_OnAddPurpleMassButtonClick
+  - RPC_OnAddRedAngleButtonClick
+  - RPC_OnAddRedMassButtonClick
+  - RPC_OnSubBlackAngleButtonClick
+  - RPC_OnSubBlackMassButtonClick
+  - RPC_OnSubPurpleAngleButtonClick
+  - RPC_OnSubPurpleMassButtonClick
+  - RPC_OnSubRedAngleButtonClick
+  - RPC_OnSubRedMassButtonClick
+  - RPC_OnAngleAddButtonClick
+  - RPC_OnAngleSubButtonClick
+  - RPC_OnSpeedAddButtonClick
+  - RPC_OnSpeedSubButtonClick
+  - RPC_OnAddDistanceButton1Click
+  - RPC_OnAddDistanceButton2Click
+  - RPC_OnAddDistanceButton3Click
+  - RPC_OnSubDistanceButton1Click
+  - RPC_OnSubDistanceButton2Click
+  - RPC_OnSubDistanceButton3Click
+  - RPC_CheckColor
+  - RPC_DecreaseAngle
+  - RPC_IncreaseAngle
+  - RPC_RotateCannon
+  - RPC_HandleFired
+  - RPC_ToggleSwitch
+  - RPC_DecreaseSpeed
+  - RPC_IncreaseSpeed
+  - RPC_SppedCheckColor
+  - RPC_ToggleBoard
+  - RPC_ToggleFlag
+  - RPC_ToggleMonster
+  - RPC_FindEnemy
+  - RPC_SubSpring
+  - RPC_ActiveButtons
+  - RPC_AddSpring
+  - RPC_AddUserWeight
+  - RPC_DisActiveButtons
+  - RPC_GenerateBox
+  - RPC_ResetValue
+  - RPC_SubUserWeight
+  - RPC_ResetBungballPos
+  - RPC_SetKin
+  - RPC_DestroyBox
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 1

@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "304124530428-4g0uvkj0ra5rsflj4b1i72585k3i55am.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH5nToJVGO9A6uvkqru03vcuDGW7h6Iys"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:304124530428:ios:e731d61e0b6bc8c64f5179", 
+        "android_client_info": {
+          "package_name": "com.yongfulu.VRphysicLab350"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "physiclab1-18247.appspot.com", 
+    "project_id": "physiclab1-18247", 
+    "firebase_url": "https://physiclab1-18247.firebaseio.com", 
+    "project_number": "304124530428"
+  }
+}

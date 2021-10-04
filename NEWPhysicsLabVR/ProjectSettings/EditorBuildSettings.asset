@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Login scene.unity
+    guid: b047ddff779fc4c2782ddb3c5663b801
+  - enabled: 1
+    path: Assets/Scenes/MultiplayerScene.unity
+    guid: a03456589ea8c431e804fe8042cf723b
+  - enabled: 1
+    path: Assets/Scenes/ForceBalanceScene.unity
+    guid: 0e12cb4ed1e294c9e96e0f89e09e8fe4
+  - enabled: 1
+    path: Assets/Scenes/StringConstantScene.unity
+    guid: f71b56a816264464cbd54ea100a0add5
+  - enabled: 1
+    path: Assets/Scenes/ProjectileScene.unity
+    guid: c3795a821be0a4ec5a4ed03efda59bc8
+  - enabled: 1
+    path: Assets/Scenes/ProjectileEntertainmentScene.unity
+    guid: c93507fe3027a4347b2650b56dd3cb4f
+  - enabled: 1
+    path: Assets/Scenes/BungeeScene.unity
+    guid: 4660b39a15f3e404e9cfc0f0490ad26b
+  m_configObjects: {}
